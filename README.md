@@ -56,3 +56,5 @@ The notebook covers supervised learning techniques applied on data collected for
 
 ### Results
 
+### License 
+Code released under the MIT License. 
