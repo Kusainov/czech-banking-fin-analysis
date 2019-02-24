@@ -36,10 +36,10 @@ Data map
 
 ### Data dictionary 
 
-Data dicitonary can be found in Data dictionary.pdf
+List of datasets and data dicitonary can be found in Data dictionary.pdf
 
 ### Run
-In a terminal or command window, navigate to the top-level project directory finding_donors/ (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory czech-banking-fin-analysis/ (that contains this README) and run one of the following commands:
 
 ipython notebook Czech-banking-customer-trans-analysis.ipynb
 or
@@ -47,12 +47,12 @@ or
 jupyter notebook fCzech-banking-customer-trans-analysis.ipynb
 This will open the iPython Notebook software and project file in your browser.
 
-Overview
+### Overview
 The notebook covers supervised learning techniques applied on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate. Data was analyzed, series of transformations and pre-processing steps applied to manipulate the data into a workable format. Linear SVC, Decision Tree Classifier and Gradient Boosting Classifier (GBC) sklearn models were evaluated so to find best solution. Based on the evaluation results sklearn GBC was selected as the most promising. The model was optimized using sklearn grid search. Additionally features importance was analyzed, the importance of each feature when making predictions based on the chosen algorithm.
 
 
 
 
 
-Results
-Optimized model of Gradient Boosting Classifier is giving accurracy as 0.8689 and F-score (beta 0.5) as 0.7483 on test set.
+### Results
+
