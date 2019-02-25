@@ -1,6 +1,13 @@
 # Czech Bank's Financial Data Analysis. Moving from gut feeling to data-driven decisions.
 Data analysis of a real Czech bank. 
 
+### Motivation
+The notebook contains overview of following questions and even more than that: 
+-  Customers age and gender population overview.
+-  Can we identify most attractive districts in Czech Republic for future marketing campaigns? Criteria: higher number of inhabitants, prominent average salary and low level of clients representation.
+-  Credit department efficiency overview within country: which districts are giving mostly “good” or “bad” loans?
+-  Bank’s funds inflows and outflows analysis. Does the bank face negative cash flow rarely or often? Is there any patterns for funds outlay?
+
 ### Install
 This project requires Python 3.x and the following Python libraries installed:
 
@@ -46,13 +53,6 @@ or
 
 jupyter notebook fCzech-banking-customer-trans-analysis.ipynb
 This will open the iPython Notebook software and project file in your browser.
-
-### Motivation
-The notebook contains overview of following questions and even more than that: 
--  Customers age and gender population overview.
--  Can we identify most attractive districts in Czech Republic for future marketing campaigns? Criteria: higher number of inhabitants, prominent average salary and low level of clients representation.
--  Credit department efficiency overview within country: which districts are giving mostly “good” or “bad” loans?
--  Bank’s funds inflows and outflows analysis. Does the bank face negative cash flow rarely or often? Is there any patterns for funds outlay?
 
 ### Acknowledgement
 
