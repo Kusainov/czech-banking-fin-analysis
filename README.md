@@ -48,13 +48,18 @@ jupyter notebook fCzech-banking-customer-trans-analysis.ipynb
 This will open the iPython Notebook software and project file in your browser.
 
 ### Overview
-The notebook covers supervised learning techniques applied on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate. Data was analyzed, series of transformations and pre-processing steps applied to manipulate the data into a workable format. Linear SVC, Decision Tree Classifier and Gradient Boosting Classifier (GBC) sklearn models were evaluated so to find best solution. Based on the evaluation results sklearn GBC was selected as the most promising. The model was optimized using sklearn grid search. Additionally features importance was analyzed, the importance of each feature when making predictions based on the chosen algorithm.
+The notebook covers following questions and even more than that: 
+-  Customers age and gender population overview.
+-  Can we identify most attractive districts in Czech Republic for future marketing campaigns? Criteria: higher number of inhabitants, prominent average salary and low level of clients representation.
+-  Credit department efficiency overview within country: which districts are giving mostly “good” or “bad” loans?
+-  Bank’s funds inflows and outflows analysis. Does the bank face negative cash flow rarely or often? Is there any patterns for funds outlay?
 
 
 
 
+### Acknowledgement
 
-### Results
+I am thankful to @lpetrocelli for real Czech bank's data shared at https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions and to TSilveira for data visualization examples: https://www.kaggle.com/tsilveira/applying-heatmaps-for-categorical-data-analysis  
 
 ### License 
 Code released under the MIT License. 
