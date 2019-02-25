@@ -47,15 +47,12 @@ or
 jupyter notebook fCzech-banking-customer-trans-analysis.ipynb
 This will open the iPython Notebook software and project file in your browser.
 
-### Overview
-The notebook covers following questions and even more than that: 
+### Motivation
+The notebook contains overview of following questions and even more than that: 
 -  Customers age and gender population overview.
 -  Can we identify most attractive districts in Czech Republic for future marketing campaigns? Criteria: higher number of inhabitants, prominent average salary and low level of clients representation.
 -  Credit department efficiency overview within country: which districts are giving mostly “good” or “bad” loans?
 -  Bank’s funds inflows and outflows analysis. Does the bank face negative cash flow rarely or often? Is there any patterns for funds outlay?
-
-
-
 
 ### Acknowledgement
 
